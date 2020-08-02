@@ -1,5 +1,6 @@
 export const installed_blueprints = [
   //@BlueprintInsertion
+{ name: 'CopyOfFeed5686887', human_name: 'Copy of Feed 56', access_route: 'CopyOfFeed5686887'},
 { name: 'CopyOfFeed5686886', human_name: 'Copy of Feed 56', access_route: 'CopyOfFeed5686886'},
 { name: 'CopyOfFeed5686885', human_name: 'Copy of Feed 56', access_route: 'CopyOfFeed5686885'},
 { name: 'CopyOfFeed5686884', human_name: 'Copy of Feed 56', access_route: 'CopyOfFeed5686884'},
